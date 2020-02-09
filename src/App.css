@@ -1,0 +1,23 @@
+body{
+  width: 100%;
+}
+.flexBox{
+  display: flex;
+  width: 100%;
+}
+.left{
+  background: yellow;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow:0px 21px 11px 0px rgba(102,102,102,0.2);
+  flex: 1;
+}
+.right{
+  background: red;
+  height: 200px;
+  border-radius: 50%;  
+  flex: 1;
+}
+.App{
+  position: relative;
+}

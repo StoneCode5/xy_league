@@ -1,0 +1,21 @@
+.main{
+    margin-left: 190px;
+    margin-top: 55px;
+    overflow-y: auto;
+}
+.filterBox{
+    height: 55px;
+    background: #fff;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 190px;
+}
+
+.cardBox{
+    margin: 10px 35px 38px 35px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
